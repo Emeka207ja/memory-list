@@ -1,0 +1,14 @@
+.button{
+    background-color: rgb(129, 129, 146);
+    border-radius: 7px;
+    width: 90%;
+    margin: 0.5rem auto;
+    text-align: center;
+}
+.button span{
+    background-color: rgb(129, 129, 146);
+    border: none;
+}
+.button span:focus{
+    outline: none;
+}

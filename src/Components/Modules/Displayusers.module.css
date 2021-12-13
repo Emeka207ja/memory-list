@@ -1,0 +1,11 @@
+.Displayusers li{
+    border: 1px solid rgb(230, 226, 226);
+    overflow: hidden;
+    box-sizing: inherit;
+    width: 90%;
+    border-radius: 7px;
+    margin: 0.2rem auto ;
+    background-color: rgb(209, 206, 206);
+    box-shadow: 2px 2px 4px rgb(176, 176, 192);
+    text-align: center;
+}
